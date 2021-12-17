@@ -13,8 +13,9 @@ Given a set of non-negative integers, and a value sum, determine if there is a s
 _There is a subset (4, 5) with sum 9._
 
 ## Subset
-**Example.** A = {1, 2, 3}
-The following subsets are: 
+**Example.**  
+A = {1, 2, 3}  
+The following subsets are:  
 1. { } (empty set)
 2. {1}
 3. {2}
@@ -25,8 +26,8 @@ The following subsets are:
 8. {1,2,3}
 
 Array size: 3  
-Number of subset: 2^n = 2^3 = 8 subsets  
-Time Complexity (Brute force method): O(2^n)  
+Number of subset: `2^n = 2^3 = 8` subsets  
+Time Complexity (Brute force method): `O(2^n)`  
 
 
 ## Brute Force Method (Recursion)
