@@ -1,7 +1,7 @@
 # Subset Sum
 Weighted Set Problems
 
-CMSC 142 G
+CMSC 142 G  
 Alexis Cacayuran
 
 
